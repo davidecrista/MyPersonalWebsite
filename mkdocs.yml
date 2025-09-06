@@ -1,7 +1,7 @@
 site_name: Davide Cristanelli
 site_description: My personal website, where I share my journey as a Freelance AI engineer
 site_author: Davide Cristanelli
-site_url: https://davidecrista.github.io/MyPersonalWebsite/docs/
+site_url: https://davidecrista.github.io/MyPersonalWebsite/
 
 nav:
   - Home:
