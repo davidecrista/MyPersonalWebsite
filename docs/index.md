@@ -1,9 +1,9 @@
 ---
 title: About Me
-description: Freelance AI Engineer, Helping small and medium-sized businesses to streamline data entry processes 
+description: Freelance AI Engineer, Helping small and medium-sized businesses to streamline data workflows 
 keywords: Davide Cristanelli, AI engineer, Dadasystems, small business, workflow automation
 author: Davide Cristanelli
-canonical_url: https://www.davidecristanelli.com/
+canonical_url: https://davidecrista.github.io/MyPersonalWebsite/
 ---
 
 <script type="application/ld+json">
@@ -11,7 +11,7 @@ canonical_url: https://www.davidecristanelli.com/
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Davide Cristanelli",
-  "url": "https://www.davidecristanelli.com/",
+  "url": "https://davidecrista.github.io/MyPersonalWebsite/",
   "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
   "sameAs": [
     "https://www.linkedin.com/in/dcristanelli/",
@@ -30,21 +30,19 @@ canonical_url: https://www.davidecristanelli.com/
 
 <div class="text-intro-grid" markdown>
 
-### **Automatizza i tuoi processi aziendali. Riduci errori, tempi e costi.**
+# **Automate your business processes. Reduce errors, time, and costs.**
 
-### Semplifica il lavoro del tuo team con soluzioni di automazione costruite su misura per la tua azienda.
+### Simplify your team’s work with automation solutions tailored to your company.
+
+---
+Are you still managing processes with Excel, emails, paperwork, or countless unnecessary clicks?</br>
+With over 20 years of experience in software development, I help manufacturing and industrial companies **optimize and automate their workflows**, cutting down on repetitive tasks, human errors, and hidden costs.
 
 ---
 
-#### Hai ancora processi gestiti con Excel, email, carta o mille clic inutili?
+### 👨‍💻 About Me
 
-Con oltre 20 anni di esperienza nello sviluppo software, aiuto le aziende manifatturiere e industriali a **ottimizzare e automatizzare i flussi di lavoro**, riducendo le attività ripetitive, gli errori umani e i costi nascosti.
-
----
-
-### 👨‍💻 Chi sono
-
-Sono un **software engineer freelance** con oltre 20 anni di esperienza in aziende piccole, medie e multinazionali. Parlo il linguaggio degli imprenditori e dei tecnici, e so trasformare esigenze complesse in soluzioni concrete.
+I’m a **freelance software engineer** with more than 20 years of experience in small businesses, mid-sized companies, and multinationals. I speak both the language of entrepreneurs and of technical teams, and I know how to turn complex needs into concrete solutions.
 
 </div>
 
@@ -52,56 +50,50 @@ Sono un **software engineer freelance** con oltre 20 anni di esperienza in azien
 
 ![Davide Cristanelli, SW and AI Engineer](assets/20250703_131406.jpg){ .profile-image alt="Portrait of Davide Cristanelli, SW and AI Engineer" }
 
-
-
 </div>
 </div>
 
-### ✅ Cosa posso fare per te:
-
+### ✅ What I can do for you:
+* **Manufacturing:** Connect your ERP or management system with other tools via **APIs, custom integrations, or low-code platforms.**
+* **Data analysis & visualization:** 
+* **Fast implementation:** Streamline communication with clients and suppliers, reducing manual work to a minimum.
 <div class="grid cards" markdown>
--   :fontawesome-solid-building-user:{ .lg .middle } Proven Business Experience
+-   :fontawesome-solid-building-user:{ .lg .middle } **Data Entry**
 
     ---
     
-    Automatizzare l'inserimento e la gestione degli ordini e documenti
+    **AI Agents automations** for order and document management to save time and minimize errors.
 
 
--   :material-youtube:{ .lg .middle } Educator & Communicator
+-   :material-youtube:{ .lg .middle } **Document workflows:**
 
     ---
 
-    Creare **workflow approvativi intelligenti** per ferie, spese, modifiche tecniche
+    Build **smart approval workflows** for vacations, expenses, and technical changes.
 
--   :material-school:{ .lg .middle } Industry Expert
+-   :material-school:{ .lg .middle } **Manufacturing** 
+
     
     ---
 
-    Collegare il tuo ERP o gestionale ad altri strumenti via **API, integrazioni custom o piattaforme low-code**
+    Connect your ERP or management system with other tools via **APIs, custom integrations, or low-code platforms.**
 
--   :material-rocket:{ .lg .middle } Fast Implementation
-
-    ---
-
-    Fornire **dashboard e alert** per monitorare la produzione in tempo reale
-
--   :material-rocket:{ .lg .middle } Fast Implementation
+-   :material-rocket:{ .lg .middle } **Data analysis & visualization** 
 
     ---
 
-    Semplificare la comunicazione con clienti e fornitori, riducendo al minimo il lavoro manuale
-    
+    Provide **dashboards and alerts** to monitor real-time data—production, sales, administration, and finance.
+   
 ---
 
 </div>
 
-### 📞 Vuoi capire se possiamo collaborare?
+### 📞 Want to see if we can work together?
 
-**Prenota una breve call di conoscenza.**
-Ti ascolto, ti faccio qualche domanda e ti spiego come potrei aiutarti — senza impegno.
+Book a short introductory call: i’ll listen to you, ask a few questions, and explain how I could help—no commitment required.
 
 <div style="text-align:center; margin-top:20px;">
-  <a href="LINKALLACALL" style="padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 6px; font-size: 18px;">Prenota una breve call di conoscenza</a>
+  <a href="LINKALLACALL" style="padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 6px; font-size: 18px;">Book a call</a>
 </div>
 
 

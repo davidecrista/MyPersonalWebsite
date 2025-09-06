@@ -1,7 +1,7 @@
 site_name: Davide Cristanelli
 site_description: My personal website, where I share my journey as an AI engineer and entrepreneur.
 site_author: Davide Cristanelli
-site_url: https://davidecrista.github.io
+site_url: https://davidecrista.github.io/
 
 nav:
   - Home:
@@ -12,7 +12,7 @@ nav:
 
 theme:
   name: material
-  language: it
+  language: en
   features:
     - search.suggest
     - toc.integrate
@@ -58,13 +58,14 @@ extra:
   analytics:
     # provider: google
     # property: G-W9Y130NXVZ
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Italiano
-      link: /it/
-      lang: it
+  #alternate:
+  #  - name: Italiano
+  #    link: /it/
+  #    lang: it  
+  #  - name: English
+  #    link: /en/ 
+  #    lang: en
+
 
 extra_css:
   - stylesheets/extra.css
