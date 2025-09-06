@@ -1,20 +1,18 @@
-site_name: Your Site Name
-site_description: Your site description
-site_url: https://yourdomain.com
+site_name: Davide Cristanelli
+site_description: My personal website, where I share my journey as an AI engineer and entrepreneur.
+site_author: Davide Cristanelli
+site_url: https://www.davidecristanelli.com
 
 nav:
   - Home:
-    - About: index.md
-  - Case Studies:
-    - Overview: portfolio/index.md
-    - Projects:
-      - portfolio/projects/project-1.md
-      - portfolio/projects/project-2.md
+    - index.md
   - Blog:
     - blog/index.md 
 
+
 theme:
   name: material
+  language: it
   features:
     - search.suggest
     - toc.integrate
@@ -23,11 +21,11 @@ theme:
     - navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
+    - navigation.indexes
     - content.tooltips
     - content.tabs.link
     - content.code.copy
     - navigation.footer
-  language: en
   palette:
     - scheme: default
       toggle:
@@ -52,16 +50,21 @@ extra:
   generator: true
   social:
     - icon: fontawesome/solid/building
-      link: https://company.com
+      link: https://www.dadasystems.com
     - icon: fontawesome/brands/github
-      link: https://github.com/
-    - icon: fontawesome/brands/youtube
-      link: https://youtube.com/
+      link: https://github.com/cristada
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com
+      link: https://www.linkedin.comin/dcristanelli
   analytics:
     # provider: google
     # property: G-W9Y130NXVZ
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Italiano
+      link: /it/
+      lang: it
 
 extra_css:
   - stylesheets/extra.css
@@ -74,6 +77,7 @@ plugins:
   - blog:
       blog_dir: blog
       authors_file: "{blog}/.authors.yml"
+      post_dir: "{blog}/posts"
       categories: true
 
 markdown_extensions:
@@ -98,8 +102,5 @@ markdown_extensions:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js
 
-extra_files:
-  - docs/robots.txt
-
 copyright: |
-  &copy; 2024 <a href="https://www.linkedin.com" target="_blank" rel="noopener">John Doe</a>. All rights reserved.
+  &copy; 2024 <a href="https://www.linkedin.com/in/dcristanelli" target="_blank" rel="noopener">Davide Cristanelli</a>. All rights reserved.

@@ -1,7 +1,7 @@
 ---
-date: 2024-09-15
+date: 2025-07-03
 authors:
-  - daveebbelaar
+  - davidecristanelli
 categories:
   - Tools
   - Quick Tips

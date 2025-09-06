@@ -1,30 +1,27 @@
 ---
 title: About Me
-description: Explore AI, data science, and entrepreneurship with Dave Ebbelaar. Learn about Datalumina, AI tutorials, freelancing, and innovative AI solutions for businesses.
-keywords: Dave Ebbelaar, AI entrepreneur, Datalumina, AI tutorials, Data Freelancer, GenAI Launchpad
-author: Dave Ebbelaar
-canonical_url: https://www.daveebbelaar.com/
+description: Freelance AI Engineer, Helping small and medium-sized businesses to streamline data entry processes 
+keywords: Davide Cristanelli, AI engineer, Dadasystems, small business, workflow automation
+author: Davide Cristanelli
+canonical_url: https://www.davidecristanelli.com/
 ---
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Dave Ebbelaar",
-  "url": "https://www.daveebbelaar.com/",
+  "name": "Davide Cristanelli",
+  "url": "https://www.davidecristanelli.com/",
   "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
   "sameAs": [
-    "https://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ",
-    "https://www.youtube.com/@daveebbelaar",
-    "https://www.linkedin.com/in/daveebbelaar/",
-    "https://github.com/daveebbelaar"
-    "https://www.skool.com/@daveebbelaar"
+    "https://www.linkedin.com/in/dcristanelli/",
+    "https://github.com/davidecrista"
   ],
   "jobTitle": "Founder & CEO",
   "worksFor": {
     "@type": "Organization",
-    "name": "Datalumina",
-    "url": "https://www.datalumina.com/"
+    "name": "Dada Systems",
+    "url": "https://www.dadasystems.com/"
   },
 }
 </script>
@@ -33,107 +30,82 @@ canonical_url: https://www.daveebbelaar.com/
 
 <div class="text-intro-grid" markdown>
 
-# Turn AI complexity into your competitive advantage
+### **Automatizza i tuoi processi aziendali. Riduci errori, tempi e costi.**
 
-### I have 5+ years experience doing just that
+### Semplifica il lavoro del tuo team con soluzioni di automazione costruite su misura per la tua azienda.
 
-- Are you struggling to keep up with the rapid pace of AI innovation?
+---
 
-- Do you need help translating AI hype into real business results?
+#### Hai ancora processi gestiti con Excel, email, carta o mille clic inutili?
 
-- Want to implement AI effectively before competitors get ahead?
+Con oltre 20 anni di esperienza nello sviluppo software, aiuto le aziende manifatturiere e industriali a **ottimizzare e automatizzare i flussi di lavoro**, riducendo le attività ripetitive, gli errori umani e i costi nascosti.
 
-- Looking for technical expertise and a clear roadmap for AI solutions?
+---
 
-- Need someone who understands both technical and business perspectives?
+### 👨‍💻 Chi sono
 
-[Book Free Intro Call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
+Sono un **software engineer freelance** con oltre 20 anni di esperienza in aziende piccole, medie e multinazionali. Parlo il linguaggio degli imprenditori e dei tecnici, e so trasformare esigenze complesse in soluzioni concrete.
 
 </div>
 
 <div class="profile-image-grid" markdown>
 
-![Dave Ebbelaar, AI Entrepreneur and Educator](assets/@daveebbelaar.jpg){ .profile-image alt="Portrait of Dave Ebbelaar, AI entrepreneur and educator" }
+![Davide Cristanelli, SW and AI Engineer](assets/20250703_131406.jpg){ .profile-image alt="Portrait of Davide Cristanelli, SW and AI Engineer" }
+
+
 
 </div>
-
 </div>
 
-## About me
-
-Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
-
-My artificial intelligence journey spans over a decade, with bachelor's and master's degrees in the field and experience building custom data and AI systems across utilities, government, and e-commerce sectors. My tech stack includes Python, PostgreSQL, ML, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration for enterprise applications.
-
-## Why work with me?
-
-Here's what sets me apart and how I can help drive value for your business:
+### ✅ Cosa posso fare per te:
 
 <div class="grid cards" markdown>
-
 -   :fontawesome-solid-building-user:{ .lg .middle } Proven Business Experience
 
     ---
+    
+    Automatizzare l'inserimento e la gestione degli ordini e documenti
 
-    As the founder of Datalumina, I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
 
 -   :material-youtube:{ .lg .middle } Educator & Communicator
 
     ---
 
-    My experience as a content creator and educator means I can break down complex technical concepts into clear, actionable insights. You'll always understand the 'why' behind technical decisions and get clear progress updates.
+    Creare **workflow approvativi intelligenti** per ferie, spese, modifiche tecniche
 
 -   :material-school:{ .lg .middle } Industry Expert
-
+    
     ---
 
-    With over a decade in AI and data science, including work across utilities, government, and e-commerce sectors, I bring battle-tested expertise to your projects. My solutions are built on real-world experience, not just theory.
+    Collegare il tuo ERP o gestionale ad altri strumenti via **API, integrazioni custom o piattaforme low-code**
 
 -   :material-rocket:{ .lg .middle } Fast Implementation
 
     ---
 
-    I specialize in rapid development and deployment of AI solutions. Using modern tools and proven frameworks, I can help you move from concept to production faster, giving you a competitive edge in today's fast-paced market.
+    Fornire **dashboard e alert** per monitorare la produzione in tempo reale
+
+-   :material-rocket:{ .lg .middle } Fast Implementation
+
+    ---
+
+    Semplificare la comunicazione con clienti e fornitori, riducendo al minimo il lavoro manuale
+    
+---
 
 </div>
 
-## What my past clients say about my work
+### 📞 Vuoi capire se possiamo collaborare?
 
-<div class="grid cards testimonials" markdown>
+**Prenota una breve call di conoscenza.**
+Ti ascolto, ti faccio qualche domanda e ti spiego come potrei aiutarti — senza impegno.
 
--   :material-format-quote-open:{ .lg .middle } Adrian Dragomir
-    
-    Founder at Sferal
-
-    ---
-
-    "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
-
--   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
-    
-    Founder at Viverve
-
-    ---
-
-    "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
-
--   :material-format-quote-open:{ .lg .middle } Rene Raaphorst
-    
-    Founder at Crypto Insiders
-
-    ---
-
-    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
-
--   :material-format-quote-open:{ .lg .middle } Kelsen
-    
-    Founder at Datavisum
-
-    ---
-
-    "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
-
+<div style="text-align:center; margin-top:20px;">
+  <a href="LINKALLACALL" style="padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 6px; font-size: 18px;">Prenota una breve call di conoscenza</a>
 </div>
+
+
+
 
 ## Frequently asked questions
 
