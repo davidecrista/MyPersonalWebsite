@@ -54,9 +54,7 @@ I’m a **freelance software engineer** with more than 20 years of experience in
 </div>
 
 ### ✅ What I can do for you:
-* **Manufacturing:** Connect your ERP or management system with other tools via **APIs, custom integrations, or low-code platforms.**
-* **Data analysis & visualization:** 
-* **Fast implementation:** Streamline communication with clients and suppliers, reducing manual work to a minimum.
+
 <div class="grid cards" markdown>
 -   :fontawesome-solid-building-user:{ .lg .middle } **Data Entry**
 
@@ -93,7 +91,7 @@ I’m a **freelance software engineer** with more than 20 years of experience in
 Book a short introductory call: i’ll listen to you, ask a few questions, and explain how I could help—no commitment required.
 
 <div style="text-align:center; margin-top:20px;">
-  <a href="LINKALLACALL" style="padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 6px; font-size: 18px;">Book a call</a>
+  <a href="https://calendly.com/davide-cristanelli/30min" style="padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 6px; font-size: 18px;">Book a call</a>
 </div>
 
 
@@ -108,7 +106,7 @@ Book a short introductory call: i’ll listen to you, ask a few questions, and e
     While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
 
 ??? note "What industries do you have experience in?"
-    I've successfully delivered projects across e-commerce, manufacturing, healthcare, and financial services. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving customer behavior analysis, process optimization, and predictive modeling.
+    I've successfully delivered projects across manufacturing, R&D, and engineering services. While I specialize in Software Engineering fundamentals that apply across sectors, I particularly excel in projects involving data entry, workflows optimization, and data analysis and presentation.
 
 ??? note "How do you handle data security and confidentiality?"
     I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
@@ -128,6 +126,6 @@ Book a short introductory call: i’ll listen to you, ask a few questions, and e
     
     Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
 
-    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com/davide-cristanelli/30min){ .md-button .md-button--primary }
 
 </div>

@@ -1,13 +1,16 @@
 site_name: Davide Cristanelli
 site_description: My personal website, where I share my journey as a Freelance AI engineer
 site_author: Davide Cristanelli
-site_url: https://davidecrista.github.io/MyPersonalWebsite/
+site_url: https://www.davidecristanelli.eu/
 
 nav:
   - Home:
     - index.md
   - Blog:
     - blog/index.md 
+  - Portfolio:
+    - portfolio/index.md
+
 
 
 theme:
@@ -52,7 +55,7 @@ extra:
     - icon: fontawesome/solid/building
       link: https://www.dadasystems.com
     - icon: fontawesome/brands/github
-      link: https://github.com/cristadadavidecrista
+      link: https://github.com/davidecrista
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/dcristanelli
   analytics:
