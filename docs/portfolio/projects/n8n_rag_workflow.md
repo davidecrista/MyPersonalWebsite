@@ -1,6 +1,6 @@
 ---
-title: AI Assistant expert in Italian legislation (tax credit for Research and Development activities)  
-description: AI Assistant expert in Italian legislation regarding the tax credit for Research and Development, Technological Innovation, and Aesthetic Design and Ideation Activities
+title:  RAG Chatbot built with n8n  
+description:  RAG Chatbot composed of two workflows: Data Ingestion, RAG Inference
 ---
 
 # **Case Study — RAG Chatbot built with n8n**
@@ -35,7 +35,7 @@ This is the Data Ingestion Workflow block diagram:
 
 ---
 
-### RAG Inference Cahtbot
+### RAG Inference Chatbot
 #### Challenges:
 
 * **User input validation:** Implemented mechanisms to check and sanitize user inputs before passing them to the model. This reduces errors, prevents malicious injections, and ensures that the chatbot or system processes only clean, well-structured data.
