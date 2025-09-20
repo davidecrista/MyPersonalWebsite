@@ -21,4 +21,10 @@ Welcome to my portfolio of data science and AI projects. Each project demonstrat
 
     A suite of specialized chatbots, integrated into Slack and powered by OpenAI APIs: automated email replies, document summaries, and content drafting. The result: faster workflows, fewer repetitive tasks, and more time for high-value work.
 
+-   [n8n RAG Chatbot ](projects/n8n_rag_workflow.md)
+
+    ---
+
+    RAG chatbot in n8n with two workflows: a data ingestion pipeline and an inference pipeline for accurate, context-aware answers.
+
 </div>

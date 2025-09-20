@@ -57,16 +57,6 @@ This project is an example of how LLMs can be **integrated into everyday tools**
  ### 
 ---
 
-## **System Architecture**
-
-
----
-
-## **Code Snippets**
-
-
----
-
 ## Tech Stack
 
 - OpenAI
