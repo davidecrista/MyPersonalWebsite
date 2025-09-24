@@ -1,5 +1,5 @@
 ---
-title: AI Assistant expert in Italian legislation (tax credit for Research and Development activities)  
+title: AI Assistant expert in Italian legislation
 description: AI Assistant expert in Italian legislation regarding the tax credit for Research and Development, Technological Innovation, and Aesthetic Design and Ideation Activities
 ---
 

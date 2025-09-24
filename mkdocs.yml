@@ -8,8 +8,12 @@ nav:
     - index.md
   - Blog:
     - blog/index.md 
-  - Portfolio:
-    - portfolio/index.md
+  - Case Studies:
+    - Overview: portfolio/index.md
+    - Projects:
+      - portfolio/projects/rag_agent.md
+      - portfolio/projects/n8n_rag_workflow.md
+      - portfolio/projects/chatbot_slack.md
 
 
 
