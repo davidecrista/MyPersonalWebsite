@@ -5,7 +5,7 @@ description: Portfolio of my projects and case studies
 
 # Featured Projects
 
-Welcome to my portfolio of data science and AI projects. Each project demonstrates my expertise in delivering impactful solutions to real-world business challenges.
+Progetti di intelligenza artificiale che ho progettato e costruito. Li descrivo nel dettaglio tecnico, comprese le cose che si sono rivelate più difficili del previsto.
 
 <div class="grid cards" markdown>
 

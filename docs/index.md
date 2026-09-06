@@ -1,131 +1,97 @@
 ---
-title: About Me
-description: Freelance AI Engineer, Helping small and medium-sized businesses to streamline data workflows 
-keywords: Davide Cristanelli, AI engineer, Dadasystems, small business, workflow automation
-author: Davide Cristanelli
-canonical_url: https://davidecrista.github.io/MyPersonalWebsite/
+title: Ti hanno proposto l'AI per la tua azienda. Conviene?
+description: Faccio l'ingegnere del software da 30 anni. Leggo il preventivo che ti hanno fatto e ti dico se ha senso, cosa manca e quali domande fare prima di firmare.
+hide:
+  - navigation
+  - toc
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Davide Cristanelli",
-  "url": "https://davidecrista.github.io/MyPersonalWebsite/",
-  "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
-  "sameAs": [
-    "https://www.linkedin.com/in/dcristanelli/",
-    "https://github.com/davidecrista"
-  ],
-  "jobTitle": "Founder & CEO",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Dada Systems",
-    "url": "https://www.dadasystems.com/"
-  },
-}
-</script>
+# Ti hanno proposto l'AI per la tua azienda. Conviene?
 
-<div class="hero-section grid-container" markdown>
+Faccio l'ingegnere del software da 30 anni. Leggo il preventivo che ti hanno fatto e ti dico
+senza giri di parole se ha senso, cosa manca e quali domande fare al fornitore prima di firmare.
 
-<div class="text-intro-grid" markdown>
-
-# **Automate your business processes. Reduce errors, time, and costs.**
-
-### Simplify your team’s work with automation solutions tailored to your company.
-
----
-Are you still managing processes with Excel, emails, paperwork, or countless unnecessary clicks?</br>
-With over 20 years of experience in software development, I help manufacturing and industrial companies **optimize and automate their workflows**, cutting down on repetitive tasks, human errors, and hidden costs.
+[Mandami il preventivo](preventivo.md){ .md-button .md-button--primary }
+[Guarda prima i video](https://www.youtube.com/@FILL_IN){ .md-button }
 
 ---
 
-### 👨‍💻 About Me
+## Perché conviene farlo leggere a qualcuno prima
 
-I’m a **freelance software engineer** with more than 20 years of experience in small businesses, mid-sized companies, and multinationals. I speak both the language of entrepreneurs and of technical teams, and I know how to turn complex needs into concrete solutions.
+Chi ti ha fatto il preventivo guadagna se firmi. Non è disonesto: è il suo mestiere. Il problema
+è che in quella stanza non c'è nessuno pagato per dirti di no.
 
-</div>
+E dire di no, o dire "sì, ma non questo", è spesso la risposta giusta. Non perché l'AI non
+funzioni — funziona, in alcuni punti molto bene — ma perché quasi nessuno si ferma a controllare
+se il problema che il fornitore dice di risolvere sia davvero il tuo problema.
 
-<div class="profile-image-grid" markdown>
+Sono trent'anni che scrivo software per aziende piccole, medie e multinazionali. Ho visto
+fallire abbastanza progetti da riconoscere quelli che stanno per fallire, e quasi mai è colpa
+della tecnologia.
 
-![Davide Cristanelli, SW and AI Engineer](assets/20250703_131406.jpg){ .profile-image alt="Portrait of Davide Cristanelli, SW and AI Engineer" }
-
-</div>
-</div>
-
-### ✅ What I can do for you:
-
-<div class="grid cards" markdown>
--   :fontawesome-solid-building-user:{ .lg .middle } **Data Entry**
-
-    ---
-    
-    **AI Agents automations** for order and document management to save time and minimize errors.
-
-
--   :material-youtube:{ .lg .middle } **Document workflows:**
-
-    ---
-
-    Build **smart approval workflows** for vacations, expenses, and technical changes.
-
--   :material-school:{ .lg .middle } **Manufacturing** 
-
-    
-    ---
-
-    Connect your ERP or management system with other tools via **APIs, custom integrations, or low-code platforms.**
-
--   :material-rocket:{ .lg .middle } **Data analysis & visualization** 
-
-    ---
-
-    Provide **dashboards and alerts** to monitor real-time data—production, sales, administration, and finance.
-   
 ---
 
-</div>
+## Cosa non faccio
 
-### 📞 Want to see if we can work together?
+- Non ti vendo una piattaforma e non ti rivendo licenze di nessuno.
+- `[DA CONFERMARE: provvigioni]` Non prendo provvigioni dai fornitori che ti fanno le proposte.
+- Se la risposta giusta è "non ti serve l'AI, ti serve sistemare un processo", te lo dico. E non
+  ti mando la fattura per avertelo detto.
 
-Book a short introductory call: i’ll listen to you, ask a few questions, and explain how I could help—no commitment required.
+---
 
-<div style="text-align:center; margin-top:20px;">
-  <a href="https://calendly.com/davide-cristanelli/30min" style="padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 6px; font-size: 18px;">Book a call</a>
-</div>
+## Come funziona
 
+**1. Mi mandi il preventivo che hai ricevuto.**
+Va bene un PDF, una foto fatta col telefono, l'email che ti hanno scritto. Non serve che sia
+ordinato.
 
+**2. Te lo leggo voce per voce.**
+Ti dico cosa stai comprando davvero, cosa manca, quali voci sono generiche al punto da poter
+significare qualsiasi cosa, e quali domande fare prima di firmare.
 
+**3. Decidi tu.**
+Se dopo vuoi una mano a farlo, ne parliamo. Se decidi di non fare niente, hai comunque risparmiato
+i soldi che stavi per spendere.
 
-## Frequently asked questions
+[Mandami il preventivo](preventivo.md){ .md-button .md-button--primary }
 
-??? note "How quickly can you start working on my project?"
-    I can typically begin new projects within 1-2 weeks of contract signing. For urgent matters, I maintain some flexibility for rapid response situations and can potentially start sooner - just let me know your timeline during our initial consultation.
+---
 
-??? note "Do you require a minimum project size or commitment?"
-    While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
+## Chi sono
 
-??? note "What industries do you have experience in?"
-    I've successfully delivered projects across manufacturing, R&D, and engineering services. While I specialize in Software Engineering fundamentals that apply across sectors, I particularly excel in projects involving data entry, workflows optimization, and data analysis and presentation.
+Mi chiamo Davide Cristanelli e faccio l'ingegnere del software da 30 anni, in aziende piccole,
+medie e in multinazionali. Parlo la lingua degli imprenditori e quella dei tecnici, e il mio
+lavoro è quasi sempre consistito nel far parlare le due.
 
-??? note "How do you handle data security and confidentiality?"
-    I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
+Da un paio d'anni lavoro con i sistemi di intelligenza artificiale: li ho studiati, li ho
+costruiti, e ne ho visti fallire abbastanza da avere delle opinioni piuttosto precise su cosa
+funziona e cosa no.
 
-??? note "What's your pricing structure?"
-    I offer both project-based and retainer pricing models. Project fees are based on scope, complexity, and value delivered rather than hours worked. For ongoing support, I offer flexible retainer packages. Let's discuss your specific needs during our consultation to determine the most cost-effective approach.
+---
 
-??? note "How do you communicate progress and results?"
-    I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time.
+## Progetti che ho costruito
 
+Non sono casi di successo con clienti: sono cose che ho progettato e costruito io, e che
+descrivo nel dettaglio tecnico perché è così che si giudica se uno sa fare il suo mestiere.
 
-<div class="grid cards" style="margin-top: 3rem" markdown>
+- [Assistente AI esperto di legislazione italiana](portfolio/projects/rag_agent/) — un modello
+  open source addestrato sulla normativa del credito d'imposta per ricerca e sviluppo, con
+  architettura RAG.
+- [Chatbot specializzati su Slack](portfolio/projects/chatbot_slack/) — risposte automatiche
+  alle email, riassunti di documenti, stesura di contenuti.
+- [Workflow RAG in n8n](portfolio/projects/n8n_rag_workflow/) — pipeline di caricamento dati e
+  pipeline di risposta.
 
--   :material-coffee:{ .lg .middle } Let's have a virtual coffee together!
+Se questa parte non ti dice niente, va benissimo: serve a chi vuole verificare che dietro i
+consigli ci sia qualcuno che ha davvero messo le mani nel motore.
 
-    ---
-    
-    Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
+---
 
-    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com/davide-cristanelli/30min){ .md-button .md-button--primary }
+## Parliamone
 
-</div>
+Il modo più veloce per capire se posso esserti utile è mandarmi il preventivo che hai ricevuto.
+Se invece vuoi solo fare due chiacchiere, va bene lo stesso.
+
+[Mandami il preventivo](preventivo.md){ .md-button .md-button--primary }
+[Prenota una call](https://calendly.com/davide-cristanelli/30min){ .md-button }
