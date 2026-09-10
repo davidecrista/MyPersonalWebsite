@@ -1,33 +1,83 @@
 ---
-title: Ti hanno proposto l'AI per la tua azienda. Conviene?
-description: Faccio l'ingegnere del software da 30 anni. Leggo il preventivo che ti hanno fatto e ti dico se ha senso, cosa manca e quali domande fare prima di firmare.
+title: L'AI in azienda, senza hype e senza tecnicismi
+description: Faccio l'ingegnere del software da 30 anni. Aiuto i piccoli imprenditori a capire cosa dell'intelligenza artificiale ha senso per la loro azienda e cosa è soltanto rumore.
 hide:
   - navigation
   - toc
 ---
 
-# Ti hanno proposto l'AI per la tua azienda. Conviene?
+# Ti stanno proponendo l'intelligenza artificiale. Ti serve davvero?
 
-Faccio l'ingegnere del software da 30 anni. Leggo il preventivo che ti hanno fatto e ti dico
-senza giri di parole se ha senso, cosa manca e quali domande fare al fornitore prima di firmare.
+Faccio l'ingegnere del software da 30 anni. Aiuto i piccoli imprenditori a capire cosa dell'AI
+ha senso per la loro azienda e cosa è soltanto rumore.
 
-[Mandami il preventivo](preventivo.md){ .md-button .md-button--primary }
-[Guarda prima i video](https://www.youtube.com/@FILL_IN){ .md-button }
+Senza tecnicismi, e senza venderti niente.
+
+[Da dove vuoi partire](#da-dove-vuoi-partire){ .md-button .md-button--primary }
+[Guarda i video](https://www.youtube.com/@FILL_IN){ .md-button }
 
 ---
 
-## Perché conviene farlo leggere a qualcuno prima
+## Il problema non è l'AI. È che nessuno ha interesse a dirti di no.
 
-Chi ti ha fatto il preventivo guadagna se firmi. Non è disonesto: è il suo mestiere. Il problema
-è che in quella stanza non c'è nessuno pagato per dirti di no.
+Chi ti manda il preventivo guadagna se firmi. Chi scrive gli articoli entusiasti vive di
+attenzione. Chi tiene i corsi vende corsi. Non è disonestà, è come funziona il mercato: il
+risultato è che intorno a te tutti hanno un motivo per dire di sì, e nessuno è pagato per dirti
+che nella tua azienda quella cosa non serve.
 
-E dire di no, o dire "sì, ma non questo", è spesso la risposta giusta. Non perché l'AI non
-funzioni — funziona, in alcuni punti molto bene — ma perché quasi nessuno si ferma a controllare
-se il problema che il fornitore dice di risolvere sia davvero il tuo problema.
+Sono trent'anni che scrivo software per aziende piccole, medie e multinazionali. In trent'anni
+ho visto fallire parecchi progetti, e quasi mai la colpa era della tecnologia. Quasi sempre era
+di qualcuno che aveva comprato la risposta prima di aver capito qual era la domanda.
 
-Sono trent'anni che scrivo software per aziende piccole, medie e multinazionali. Ho visto
-fallire abbastanza progetti da riconoscere quelli che stanno per fallire, e quasi mai è colpa
-della tecnologia.
+Con l'intelligenza artificiale sta succedendo esattamente la stessa cosa, solo più in fretta e
+con più rumore intorno.
+
+---
+
+## Da dove vuoi partire
+
+### Hai una proposta in mano
+
+Un fornitore ti ha mandato un preventivo, o ti ha fatto una presentazione e adesso aspetta una
+risposta.
+
+Te lo leggo voce per voce e ti dico cosa stai comprando davvero, cosa manca, e quali domande
+fare prima di firmare.
+
+[Mandami il preventivo](preventivo.md){ .md-button .md-button--primary }
+
+### Non hai ancora niente in mano
+
+Stai valutando e non sai da che parte cominciare, oppure ci avete già provato e non è andata
+come speravate.
+
+Si parte dalle domande da farsi prima di qualsiasi acquisto — e sono meno di quante pensi.
+
+[Da dove si parte](da-dove-partire.md){ .md-button .md-button--primary }
+
+---
+
+## Come ragiono
+
+Quattro cose che mi porto dietro da trent'anni di progetti, e che valgono per l'intelligenza
+artificiale esattamente come valevano per tutto il resto.
+
+**Il costo si misura in euro, non in entusiasmo.**
+Un progetto che costa 20.000 euro deve farti risparmiare più di 20.000 euro, e devi sapere in
+quanto tempo. Se nessuno ha fatto questo conto, il conto non torna quasi mai.
+
+**Prima del software viene il processo.**
+Se una cosa la fate male a mano, automatizzarla significa farla male più in fretta. Buona parte
+delle volte in cui sembra servire l'intelligenza artificiale, serve invece sistemare un modo di
+lavorare.
+
+**Conta chi lo userà tutti i giorni.**
+La tecnologia si installa in un pomeriggio, l'abitudine di una persona no. I progetti muoiono
+molto più spesso perché nessuno li usa che perché non funzionano.
+
+**Se non sai come dichiararlo fallito, non sai cosa stai comprando.**
+Prima di firmare qualsiasi cosa, mettete per iscritto come si misura se ha funzionato ed entro
+quando. È la domanda che mette più in difficoltà i fornitori, ed è per questo che va fatta.
 
 ---
 
@@ -35,26 +85,10 @@ della tecnologia.
 
 - Non ti vendo una piattaforma e non ti rivendo licenze di nessuno.
 - `[DA CONFERMARE: provvigioni]` Non prendo provvigioni dai fornitori che ti fanno le proposte.
-- Se la risposta giusta è "non ti serve l'AI, ti serve sistemare un processo", te lo dico. E non
-  ti mando la fattura per avertelo detto.
-
----
-
-## Come funziona
-
-**1. Mi mandi il preventivo che hai ricevuto.**
-Va bene un PDF, una foto fatta col telefono, l'email che ti hanno scritto. Non serve che sia
-ordinato.
-
-**2. Te lo leggo voce per voce.**
-Ti dico cosa stai comprando davvero, cosa manca, quali voci sono generiche al punto da poter
-significare qualsiasi cosa, e quali domande fare prima di firmare.
-
-**3. Decidi tu.**
-Se dopo vuoi una mano a farlo, ne parliamo. Se decidi di non fare niente, hai comunque risparmiato
-i soldi che stavi per spendere.
-
-[Mandami il preventivo](preventivo.md){ .md-button .md-button--primary }
+- Se la risposta giusta è "non ti serve l'AI", te lo dico. E non ti mando la fattura per
+  avertelo detto.
+- Non ti prometto risultati che non posso dimostrare. Quello che ho costruito è qui sotto,
+  descritto per esteso: giudica tu.
 
 ---
 
@@ -64,9 +98,10 @@ Mi chiamo Davide Cristanelli e faccio l'ingegnere del software da 30 anni, in az
 medie e in multinazionali. Parlo la lingua degli imprenditori e quella dei tecnici, e il mio
 lavoro è quasi sempre consistito nel far parlare le due.
 
-Da un paio d'anni lavoro con i sistemi di intelligenza artificiale: li ho studiati, li ho
-costruiti, e ne ho visti fallire abbastanza da avere delle opinioni piuttosto precise su cosa
-funziona e cosa no.
+Sull'intelligenza artificiale il mio lavoro finora è stato di studio, progettazione e
+sperimentazione: ho costruito sistemi, li ho messi alla prova e ne ho visti fallire abbastanza
+da avere idee piuttosto precise su cosa regge e cosa no. Lo scrivo chiaramente perché è la
+distinzione che vorrei mi facesse chiunque venisse a propormi qualcosa.
 
 ---
 
@@ -76,22 +111,28 @@ Non sono casi di successo con clienti: sono cose che ho progettato e costruito i
 descrivo nel dettaglio tecnico perché è così che si giudica se uno sa fare il suo mestiere.
 
 - [Assistente AI esperto di legislazione italiana](portfolio/projects/rag_agent/) — un modello
-  open source addestrato sulla normativa del credito d'imposta per ricerca e sviluppo, con
-  architettura RAG.
+  open source addestrato sulla normativa del credito d'imposta per ricerca e sviluppo.
 - [Chatbot specializzati su Slack](portfolio/projects/chatbot_slack/) — risposte automatiche
   alle email, riassunti di documenti, stesura di contenuti.
 - [Workflow RAG in n8n](portfolio/projects/n8n_rag_workflow/) — pipeline di caricamento dati e
   pipeline di risposta.
 
-Se questa parte non ti dice niente, va benissimo: serve a chi vuole verificare che dietro i
+Se questa parte non ti dice niente va benissimo: serve a chi vuole verificare che dietro i
 consigli ci sia qualcuno che ha davvero messo le mani nel motore.
+
+---
+
+## Ne parlo anche in video
+
+Racconto queste cose su YouTube, in italiano, senza tecnicismi e senza vendere niente. Un video
+a settimana.
+
+[Vai al canale](https://www.youtube.com/@FILL_IN){ .md-button }
 
 ---
 
 ## Parliamone
 
-Il modo più veloce per capire se posso esserti utile è mandarmi il preventivo che hai ricevuto.
-Se invece vuoi solo fare due chiacchiere, va bene lo stesso.
-
 [Mandami il preventivo](preventivo.md){ .md-button .md-button--primary }
+[Da dove si parte](da-dove-partire.md){ .md-button }
 [Prenota una call](https://calendly.com/davide-cristanelli/30min){ .md-button }
